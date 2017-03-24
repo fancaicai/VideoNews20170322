@@ -22,6 +22,7 @@ import butterknife.ButterKnife;
 public class NewsFragment extends Fragment {
     @BindView(R.id.newsListView)
     NewsListView newsListView;
+//
 View view;
     @Nullable
     @Override
