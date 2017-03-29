@@ -123,9 +123,9 @@ public class MediaPlayerManager {
     }
 
     //停止播放，更新UI（通过接口callBack）
-    public void stopPlayer() {
+    public void stopPlayer(){
         //判断当前是否有视频播放
-        if (this.videoId==null)return;
+        if (videoId == null) return;
         //通知UI更新
         for (OnPlaybackListener listener : onPlaybackListeners){
             listener.onStopPlay(videoId);
@@ -135,8 +135,8 @@ public class MediaPlayerManager {
             mediaPlayer.stop();
         }
         mediaPlayer.reset();
-
     }
+
 
     //添加播放处理的监听（UI层的callback）
     public void addPlayerBackListener(OnPlaybackListener listener) {

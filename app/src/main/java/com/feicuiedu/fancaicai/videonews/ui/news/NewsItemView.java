@@ -98,7 +98,7 @@ public class NewsItemView extends BaseItemView<NewsEntity> implements MediaPlaye
     public void stopPlayer(){
         mediaPlayerManager.stopPlayer();
     }
-    //判断是否操作当前的视频
+    //判断是否操作当前的视频,不懂这一步，完全不懂，这个方法在哪调用的
     private boolean isCurrentVideo(String videoId){
         if (videoId == null || newsEntity == null) return false;
         return videoId.equals(newsEntity.getObjectId());

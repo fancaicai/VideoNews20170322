@@ -8,12 +8,12 @@
         "source": "D:\\QQMusicCache\\VideoNews\\vitamio\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scrubber_control_disabled_holo.png"
     },
     {
-        "merged": "D:\\QQMusicCache\\VideoNews\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\scrubber_secondary_holo.9.png",
-        "source": "D:\\QQMusicCache\\VideoNews\\vitamio\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scrubber_secondary_holo.9.png"
-    },
-    {
         "merged": "D:\\QQMusicCache\\VideoNews\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\mediacontroller_play.png",
         "source": "D:\\QQMusicCache\\VideoNews\\vitamio\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\mediacontroller_play.png"
+    },
+    {
+        "merged": "D:\\QQMusicCache\\VideoNews\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\scrubber_secondary_holo.9.png",
+        "source": "D:\\QQMusicCache\\VideoNews\\vitamio\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scrubber_secondary_holo.9.png"
     },
     {
         "merged": "D:\\QQMusicCache\\VideoNews\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\scrubber_control_focused_holo.png",
